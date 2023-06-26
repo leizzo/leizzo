@@ -3,12 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/le1zzo" target="blank"><img src="https://img.shields.io/twitter/follow/le1zzo?logo=twitter&style=for-the-badge" alt="le1zzo" /></a> </p>
 
-- 🔭 I’m currently working on [yt-focus](https://github.com/leizzo/yt-focus)
-
-- 👯 I’m looking to collaborate on [yt-focus](https://github.com/leizzo/yt-focus)
-
-- 💬 Ask me about **react, javascript**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/le1zzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="le1zzo" height="30" width="40" /></a>
