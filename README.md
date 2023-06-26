@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail Bahtiyar</h1>
-<h3 align="center">A passionate software developer from Turkey.</h3>
+<h3 align="center">A passionate software developer.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
